@@ -5,6 +5,7 @@ Dragons Legacy ZH-CN localization
 
 安装方法：
 
+    -下载全部压缩包
     -解压缩，复制"ZH-CN_p.pak"以"ZH-CN_p.sig"
     -定向到文件夹"X:\Steam\steamapps\common\Dragons Legacy\Dragons\Content\Paks"。
     -在该目录粘贴。
