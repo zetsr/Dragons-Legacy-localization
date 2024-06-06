@@ -57,7 +57,7 @@
 安装方法：
 
     -下载对应版本分支下的全部压缩包。
-    -解压缩，复制"ZH-CN_p.pak"以"ZH-CN_p.sig"
-    -定向到文件夹"X:\Steam\steamapps\common\Dragons Legacy\Dragons\Content\Paks"。
+    -解压缩，复制"ZH-CN_p.pak"以及"ZH-CN_p.sig"
+    -定向到文件夹"X:\Steam\steamapps\common\Dragons Legacy\Dragons\Content\Paks"
     -在该目录粘贴。
     -完成。
