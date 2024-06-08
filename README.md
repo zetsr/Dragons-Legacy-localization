@@ -74,6 +74,3 @@
     -定向到文件夹"X:\Steam\steamapps\common\Dragons Legacy\Dragons\Content\Paks"
     -在该目录粘贴。
     -完成。
-
-
-已知问题：角色面板的汉化未按预期工作，它似乎会在少数情况下随机生效。我目前无法复现这个问题，将在后续的计划更新中修复，也许。
